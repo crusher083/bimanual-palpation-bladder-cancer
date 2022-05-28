@@ -3,6 +3,7 @@ A repository containing data and code for analysis conducted in the study.
 **Authors**: A. K. Czech, K. Gronostaj, J. Fronczek, J. Frydrych, V.
 Bezshapkin, M. Przydacz, P. Dudek, L. Curylo, T. Wiatr, J.
 Gasowski, P. L. Chlosta
+**Corresponding author**: A. K. Czech (aka.czech@uj.edu.pl)[aka.czech@uj.edu.pl]
 <p align="justify">
   
 ## Abstract
