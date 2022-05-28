@@ -1,8 +1,10 @@
 # Diagnostic accuracy of bimanual palpation in bladder cancer patients undergoing cystectomy: a prospective study
+<img align="right" width="90" height="149" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/59/POL_Jagiellonian_University_logo.svg/1200px-POL_Jagiellonian_University_logo.svg.png">
+
 A repository containing data and code for analysis conducted in the study.   
 **Authors**: A. K. Czech, K. Gronostaj, J. Fronczek, J. Frydrych, V.
 Bezshapkin, M. Przydacz, P. Dudek, L. Curylo, T. Wiatr, J.
-Gasowski, P. L. Chlosta
+Gasowski, P. L. Chlosta  
 **Corresponding author**: A. K. Czech [aka.czech@uj.edu.pl](aka.czech@uj.edu.pl)
   
 ## Abstract
